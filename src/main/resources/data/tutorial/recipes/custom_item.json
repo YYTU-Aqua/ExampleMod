@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "WWW",
+      "WRW",
+      "WWW"
+    ],
+    "key": {
+      "W": {
+        "item": "minecraft:sculk"
+      },
+      "R": {
+        "item": "minecraft:diamond_hoe"
+      }
+    },
+    "result": {
+      "item": "tutorial:custom_item",
+      "count": 1
+    }
+  }
